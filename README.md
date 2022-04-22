@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/482117625.svg)](https://zenodo.org/badge/latestdoi/482117625)
+To cite this material
+
 # gallery-v0.3
 Gallery dedicated to ocean data
 
