@@ -2,7 +2,7 @@
 To cite this material
 
 # gallery-v0.3
-Gallery dedicated to ocean data
+Gallery dedicated to [Galapagos Whale Shark Project](https://www.gis4-wildlife.com/galapagos-whale-shark-project)
 
 ## Galapagos Whale Shark Project
 ![path](images/sky_path.gif)
@@ -10,6 +10,10 @@ Gallery dedicated to ocean data
 ![path](images/sky_sst_gif.gif)
 
 ![path](images/sky_chl_gif_qtile.gif)
+
+![path](images/whalesharks_on_land.gif)
+
+![path](images/whalesharks_fishing_effort.gif)
 
 #### Citation
 
