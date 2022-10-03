@@ -17,4 +17,4 @@ Gallery dedicated to [Galapagos Whale Shark Project](https://www.gis4-wildlife.c
 
 #### Citation
 
-GIS4 Wildife, Galapagos Whale Shark Project (2022). "Wildlife Tracker v0.3" implementation in near real-time monitoring of marine megafauna in Galapagos Marine Reserve. DOI:10.5281/zenodo.6477841	
+Bryan R. Vallejo, & Sofia Green. (2022). Ocean satellite data implementation in Wildlife Tracker v0.3: eco-geographical variables and fishing pressure tested with Galapagos Whale Shark Project (WildlifeTracker0.3). Zenodo. https://doi.org/10.5281/zenodo.6477841
